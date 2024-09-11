@@ -1,0 +1,25 @@
+root - parth@aws
+pass- Kartikparth@12345
+
+
+AWS account ID - 010438506924
+Account name (root) - parth@aws
+Email address -awskartikpatel@gmail.com
+pass- Kartikparth@12345
+
+
+Iam-user - parthraj
+Kartikparth@12345
+console link - https://010438506924.signin.aws.amazon.com/console
+
+
+
+us-east-1
+
+services to learn 
+
+
+datasync 
+data migration service
+dr services 
+

@@ -1,0 +1,18 @@
+aws
+linux 
+docker 
+kubernetes
+git
+nginx
+sftp 
+python
+jenkins
+jira
+ci/cd tools
+docker
+ansible
+terraform 
+shell scripting 
+sdlc 
+
+
