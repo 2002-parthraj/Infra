@@ -14,6 +14,9 @@ console link - https://010438506924.signin.aws.amazon.com/console
 
 
 
+
+
+
 us-east-1
 
 services to learn 
